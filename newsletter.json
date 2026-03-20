@@ -2,6 +2,11 @@
   "news": [
     {
       "date": "2026-03-20",
+      "title": "One more newsletter block",
+      "description": "Testing another block of news."
+    },
+    {
+      "date": "2026-03-20",
       "title": "Test Newsletter Block",
       "description": "A lot of cool things were added, you just don't know it yet."
     }
