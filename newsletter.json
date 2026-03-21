@@ -1,5 +1,9 @@
 {
-  "news": [
+  "news": [{
+      "date": "2026-03-21",
+      "title": "Lorem ipsum 2",
+      "description": "Test 2"
+    },
     {
       "date": "2026-03-20",
       "title": "Lorem ipsum?",
